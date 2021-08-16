@@ -4,4 +4,4 @@
 
 3. Run 'npm start' from the project directory which will start the server and client
 
-4. Go to 'http://localhost:4000/' and input a decimal to convert to hexadecimal
+4. Go to 'http://localhost:4000' and input a decimal to convert to hexadecimal
